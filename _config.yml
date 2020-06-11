@@ -22,7 +22,7 @@ sidebar: true
 # 侧边栏描述语句
 sidebar-about-description: "知识就是力量。"
 # 侧边栏头像
-sidebar-avatar: /img/sidebar-avatar.jpg
+sidebar-avatar: /projects/img/sidebar-avatar.jpg
 
 ## 社交网站设置
 RSS: true
@@ -97,21 +97,3 @@ featured-condition-size: 0
 chrome-tab-theme-color: "#2255FF"
 service-worker: true
 
-## 友情链接
-
-friends: [
-
-   {
-
-        title: "Apple",
-
-        href: "https://apple.com"
-
-    },{
-
-        title: "Apple Developer",
-
-        href: "https://developer.apple.com/"
-
-    }
-]
